@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PesaApp</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="lottie_description">Lottie Description</string>
+    <string name="lottie_title">Lottie Title</string>
+</resources>
